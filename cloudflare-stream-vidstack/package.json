@@ -1,0 +1,10 @@
+{
+    "name": "js",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+      "@vidstack/player": "next",
+      "hls.js": "^1.2.0",
+      "lit": "^2.2.8"
+    }
+  }
